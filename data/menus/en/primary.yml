@@ -1,5 +1,5 @@
 ---
-title: Menu principal
+title: Main menu
 items:
 - title: Posts
   target: "/en/posts/"
@@ -50,4 +50,11 @@ items:
   children: []
   path: "/organizations"
   file: content/en/organizations/_index.html
+- title: Published page
+  target: "/en/published-page/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/published-page"
+  file: content/en/pages/published-page/_index.html
 
