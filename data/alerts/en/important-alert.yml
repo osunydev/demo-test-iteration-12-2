@@ -1,0 +1,13 @@
+---
+title: >-
+  Important alert
+level: danger
+content: >-
+  
+button:
+  title: >-
+    See here
+  url: >-
+    https://www.google.fr
+  target_blank: true
+---
